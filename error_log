@@ -1,0 +1,2 @@
+[29-Mar-2017 09:02:53 UTC] PHP Fatal error:  Call to undefined method AccessoryModel::getTitle() in /home/pinkcity65712017/public_html/application/controllers/ProductController.php on line 56
+[29-Mar-2017 15:33:00 UTC] PHP Fatal error:  Call to undefined method AccessoryModel::getTitle() in /home/pinkcity65712017/public_html/application/controllers/ProductController.php on line 56
