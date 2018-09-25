@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /application/
+Disallow: /public/
+Allow: /application/views/home.php
